@@ -1,0 +1,1166 @@
+{
+    "years-versions": [
+        {
+            "year": 2014,
+            "version-list": [
+                {
+                    "id": "234856",
+                    "name": "(F23) Convertible M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "144748",
+                    "name": "(F23) Convertible M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "21947",
+                    "name": "(F45) Active Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "22010",
+                    "name": "(F45) Active Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "234857",
+                    "name": "(F23) Convertible M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "226829",
+                    "name": "(F23) Convertible 230i (2.0 L 252)"
+                },
+                {
+                    "id": "21945",
+                    "name": "(F23) Convertible M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "21944",
+                    "name": "(F23) Convertible 228i (2.0 L 245)"
+                },
+                {
+                    "id": "144725",
+                    "name": "(F23) Convertible 225d (2.0 D 224)"
+                },
+                {
+                    "id": "22071",
+                    "name": "(F45) Active Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "22070",
+                    "name": "(F45) Active Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "22129",
+                    "name": "(F45) Active Tourer 225i (2.0 L 231)"
+                },
+                {
+                    "id": "22130",
+                    "name": "(F45) Active Tourer 225i xDrive (2.0 L 231)"
+                },
+                {
+                    "id": "22072",
+                    "name": "(F45) Active Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "177574",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "22012",
+                    "name": "(F45) Active Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "171708",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22011",
+                    "name": "(F45) Active Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "171699",
+                    "name": "(F45) Active Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "21827",
+                    "name": "(F22) Coupe M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "226785",
+                    "name": "(F22) Coupe M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "21828",
+                    "name": "(F22) Coupe M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "226784",
+                    "name": "(F22) Coupe 230i (2.0 L 252)"
+                },
+                {
+                    "id": "21826",
+                    "name": "(F22) Coupe 228i (2.0 L 245)"
+                },
+                {
+                    "id": "144684",
+                    "name": "(F23) Convertible 218i (1.5 L 136)"
+                },
+                {
+                    "id": "21889",
+                    "name": "(F23) Convertible 220i (2.0 L 184)"
+                },
+                {
+                    "id": "21888",
+                    "name": "(F23) Convertible 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144683",
+                    "name": "(F23) Convertible 218d (2.0 D 150)"
+                },
+                {
+                    "id": "226812",
+                    "name": "(F22) Coupe M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "144637",
+                    "name": "(F22) Coupe 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "144600",
+                    "name": "(F22) Coupe 218i (1.5 L 136)"
+                },
+                {
+                    "id": "21766",
+                    "name": "(F22) Coupe 220d (2.0 D 184)"
+                },
+                {
+                    "id": "144595",
+                    "name": "(F22) Coupe 218d (2.0 D 150)"
+                },
+                {
+                    "id": "21709",
+                    "name": "(F22) Coupe 218d (2.0 D 143)"
+                },
+                {
+                    "id": "21825",
+                    "name": "(F22) Coupe 225d (2.0 D 218)"
+                },
+                {
+                    "id": "144662",
+                    "name": "(F22) Coupe 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21768",
+                    "name": "(F22) Coupe 220i (2.0 L 184)"
+                },
+                {
+                    "id": "21767",
+                    "name": "(F22) Coupe 220d (2.0 D 190)"
+                }
+            ]
+        },
+        {
+            "year": 2015,
+            "version-list": [
+                {
+                    "id": "171708",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22012",
+                    "name": "(F45) Active Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "177574",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "22071",
+                    "name": "(F45) Active Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "22072",
+                    "name": "(F45) Active Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "22070",
+                    "name": "(F45) Active Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "22010",
+                    "name": "(F45) Active Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "22011",
+                    "name": "(F45) Active Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "171699",
+                    "name": "(F45) Active Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "234857",
+                    "name": "(F23) Convertible M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "21947",
+                    "name": "(F45) Active Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "144683",
+                    "name": "(F23) Convertible 218d (2.0 D 150)"
+                },
+                {
+                    "id": "177597",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "234856",
+                    "name": "(F23) Convertible M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "226829",
+                    "name": "(F23) Convertible 230i (2.0 L 252)"
+                },
+                {
+                    "id": "226785",
+                    "name": "(F22) Coupe M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "21888",
+                    "name": "(F23) Convertible 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144763",
+                    "name": "(F46) Gran Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "21825",
+                    "name": "(F22) Coupe 225d (2.0 D 218)"
+                },
+                {
+                    "id": "144662",
+                    "name": "(F22) Coupe 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21768",
+                    "name": "(F22) Coupe 220i (2.0 L 184)"
+                },
+                {
+                    "id": "226784",
+                    "name": "(F22) Coupe 230i (2.0 L 252)"
+                },
+                {
+                    "id": "22193",
+                    "name": "(F46) Gran Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "21827",
+                    "name": "(F22) Coupe M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "22133",
+                    "name": "(F46) Gran Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "21826",
+                    "name": "(F22) Coupe 228i (2.0 L 245)"
+                },
+                {
+                    "id": "21766",
+                    "name": "(F22) Coupe 220d (2.0 D 184)"
+                },
+                {
+                    "id": "177598",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "144725",
+                    "name": "(F23) Convertible 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21944",
+                    "name": "(F23) Convertible 228i (2.0 L 245)"
+                },
+                {
+                    "id": "21889",
+                    "name": "(F23) Convertible 220i (2.0 L 184)"
+                },
+                {
+                    "id": "144748",
+                    "name": "(F23) Convertible M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "21945",
+                    "name": "(F23) Convertible M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "21828",
+                    "name": "(F22) Coupe M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "226812",
+                    "name": "(F22) Coupe M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "144684",
+                    "name": "(F23) Convertible 218i (1.5 L 136)"
+                },
+                {
+                    "id": "22130",
+                    "name": "(F45) Active Tourer 225i xDrive (2.0 L 231)"
+                },
+                {
+                    "id": "167564",
+                    "name": "(F45) Active Tourer 225xe (1.5 Hybrid 224)"
+                },
+                {
+                    "id": "22129",
+                    "name": "(F45) Active Tourer 225i (2.0 L 231)"
+                },
+                {
+                    "id": "144783",
+                    "name": "(F46) Gran Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "22132",
+                    "name": "(F46) Gran Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "144595",
+                    "name": "(F22) Coupe 218d (2.0 D 150)"
+                },
+                {
+                    "id": "144600",
+                    "name": "(F22) Coupe 218i (1.5 L 136)"
+                },
+                {
+                    "id": "144784",
+                    "name": "(F46) Gran Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "21709",
+                    "name": "(F22) Coupe 218d (2.0 D 143)"
+                },
+                {
+                    "id": "22192",
+                    "name": "(F46) Gran Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "22194",
+                    "name": "(F46) Gran Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "21767",
+                    "name": "(F22) Coupe 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144637",
+                    "name": "(F22) Coupe 220d xDrive (2.0 D 190)"
+                }
+            ]
+        },
+        {
+            "year": 2016,
+            "version-list": [
+                {
+                    "id": "171708",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22012",
+                    "name": "(F45) Active Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "177574",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "22071",
+                    "name": "(F45) Active Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "144683",
+                    "name": "(F23) Convertible 218d (2.0 D 150)"
+                },
+                {
+                    "id": "22072",
+                    "name": "(F45) Active Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "177597",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "22070",
+                    "name": "(F45) Active Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "22010",
+                    "name": "(F45) Active Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "234857",
+                    "name": "(F23) Convertible M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "22011",
+                    "name": "(F45) Active Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "234856",
+                    "name": "(F23) Convertible M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "171699",
+                    "name": "(F45) Active Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "21947",
+                    "name": "(F45) Active Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "21825",
+                    "name": "(F22) Coupe 225d (2.0 D 218)"
+                },
+                {
+                    "id": "144662",
+                    "name": "(F22) Coupe 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21768",
+                    "name": "(F22) Coupe 220i (2.0 L 184)"
+                },
+                {
+                    "id": "226784",
+                    "name": "(F22) Coupe 230i (2.0 L 252)"
+                },
+                {
+                    "id": "21827",
+                    "name": "(F22) Coupe M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "21826",
+                    "name": "(F22) Coupe 228i (2.0 L 245)"
+                },
+                {
+                    "id": "21766",
+                    "name": "(F22) Coupe 220d (2.0 D 184)"
+                },
+                {
+                    "id": "144637",
+                    "name": "(F22) Coupe 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "21767",
+                    "name": "(F22) Coupe 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144595",
+                    "name": "(F22) Coupe 218d (2.0 D 150)"
+                },
+                {
+                    "id": "226829",
+                    "name": "(F23) Convertible 230i (2.0 L 252)"
+                },
+                {
+                    "id": "144748",
+                    "name": "(F23) Convertible M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "144600",
+                    "name": "(F22) Coupe 218i (1.5 L 136)"
+                },
+                {
+                    "id": "21945",
+                    "name": "(F23) Convertible M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "144725",
+                    "name": "(F23) Convertible 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21709",
+                    "name": "(F22) Coupe 218d (2.0 D 143)"
+                },
+                {
+                    "id": "21944",
+                    "name": "(F23) Convertible 228i (2.0 L 245)"
+                },
+                {
+                    "id": "21889",
+                    "name": "(F23) Convertible 220i (2.0 L 184)"
+                },
+                {
+                    "id": "226785",
+                    "name": "(F22) Coupe M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "226812",
+                    "name": "(F22) Coupe M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "21828",
+                    "name": "(F22) Coupe M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "21888",
+                    "name": "(F23) Convertible 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144763",
+                    "name": "(F46) Gran Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "144783",
+                    "name": "(F46) Gran Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "144684",
+                    "name": "(F23) Convertible 218i (1.5 L 136)"
+                },
+                {
+                    "id": "22132",
+                    "name": "(F46) Gran Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "22193",
+                    "name": "(F46) Gran Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "22194",
+                    "name": "(F46) Gran Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "144784",
+                    "name": "(F46) Gran Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "22192",
+                    "name": "(F46) Gran Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "22129",
+                    "name": "(F45) Active Tourer 225i (2.0 L 231)"
+                },
+                {
+                    "id": "167564",
+                    "name": "(F45) Active Tourer 225xe (1.5 Hybrid 224)"
+                },
+                {
+                    "id": "22130",
+                    "name": "(F45) Active Tourer 225i xDrive (2.0 L 231)"
+                },
+                {
+                    "id": "177598",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22133",
+                    "name": "(F46) Gran Tourer 218d (2.0 D 150)"
+                }
+            ]
+        },
+        {
+            "year": 2017,
+            "version-list": [
+                {
+                    "id": "171708",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22012",
+                    "name": "(F45) Active Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "177574",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "22071",
+                    "name": "(F45) Active Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "22072",
+                    "name": "(F45) Active Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "22070",
+                    "name": "(F45) Active Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "22010",
+                    "name": "(F45) Active Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "22011",
+                    "name": "(F45) Active Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "171699",
+                    "name": "(F45) Active Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "234857",
+                    "name": "(F23) Convertible M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "21947",
+                    "name": "(F45) Active Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "234856",
+                    "name": "(F23) Convertible M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "177597",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "177598",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22133",
+                    "name": "(F46) Gran Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "22193",
+                    "name": "(F46) Gran Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "22194",
+                    "name": "(F46) Gran Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "144784",
+                    "name": "(F46) Gran Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144683",
+                    "name": "(F23) Convertible 218d (2.0 D 150)"
+                },
+                {
+                    "id": "144763",
+                    "name": "(F46) Gran Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "144783",
+                    "name": "(F46) Gran Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "22132",
+                    "name": "(F46) Gran Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "22130",
+                    "name": "(F45) Active Tourer 225i xDrive (2.0 L 231)"
+                },
+                {
+                    "id": "167564",
+                    "name": "(F45) Active Tourer 225xe (1.5 Hybrid 224)"
+                },
+                {
+                    "id": "22129",
+                    "name": "(F45) Active Tourer 225i (2.0 L 231)"
+                },
+                {
+                    "id": "22192",
+                    "name": "(F46) Gran Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "21888",
+                    "name": "(F23) Convertible 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144684",
+                    "name": "(F23) Convertible 218i (1.5 L 136)"
+                },
+                {
+                    "id": "226785",
+                    "name": "(F22) Coupe M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "226812",
+                    "name": "(F22) Coupe M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "21828",
+                    "name": "(F22) Coupe M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "226829",
+                    "name": "(F23) Convertible 230i (2.0 L 252)"
+                },
+                {
+                    "id": "144748",
+                    "name": "(F23) Convertible M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "21945",
+                    "name": "(F23) Convertible M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "144725",
+                    "name": "(F23) Convertible 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21944",
+                    "name": "(F23) Convertible 228i (2.0 L 245)"
+                },
+                {
+                    "id": "21889",
+                    "name": "(F23) Convertible 220i (2.0 L 184)"
+                },
+                {
+                    "id": "21825",
+                    "name": "(F22) Coupe 225d (2.0 D 218)"
+                },
+                {
+                    "id": "144662",
+                    "name": "(F22) Coupe 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21768",
+                    "name": "(F22) Coupe 220i (2.0 L 184)"
+                },
+                {
+                    "id": "226784",
+                    "name": "(F22) Coupe 230i (2.0 L 252)"
+                },
+                {
+                    "id": "21766",
+                    "name": "(F22) Coupe 220d (2.0 D 184)"
+                },
+                {
+                    "id": "21827",
+                    "name": "(F22) Coupe M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "21826",
+                    "name": "(F22) Coupe 228i (2.0 L 245)"
+                },
+                {
+                    "id": "144637",
+                    "name": "(F22) Coupe 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "21767",
+                    "name": "(F22) Coupe 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144595",
+                    "name": "(F22) Coupe 218d (2.0 D 150)"
+                },
+                {
+                    "id": "144600",
+                    "name": "(F22) Coupe 218i (1.5 L 136)"
+                },
+                {
+                    "id": "21709",
+                    "name": "(F22) Coupe 218d (2.0 D 143)"
+                }
+            ]
+        },
+        {
+            "year": 2018,
+            "version-list": [
+                {
+                    "id": "171708",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22012",
+                    "name": "(F45) Active Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "177574",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "22071",
+                    "name": "(F45) Active Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "22072",
+                    "name": "(F45) Active Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "22070",
+                    "name": "(F45) Active Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "22010",
+                    "name": "(F45) Active Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "22011",
+                    "name": "(F45) Active Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "171699",
+                    "name": "(F45) Active Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "234857",
+                    "name": "(F23) Convertible M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "21947",
+                    "name": "(F45) Active Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "144683",
+                    "name": "(F23) Convertible 218d (2.0 D 150)"
+                },
+                {
+                    "id": "234856",
+                    "name": "(F23) Convertible M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "21888",
+                    "name": "(F23) Convertible 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144684",
+                    "name": "(F23) Convertible 218i (1.5 L 136)"
+                },
+                {
+                    "id": "144763",
+                    "name": "(F46) Gran Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "177597",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "226785",
+                    "name": "(F22) Coupe M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "144783",
+                    "name": "(F46) Gran Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "177598",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "226812",
+                    "name": "(F22) Coupe M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "22132",
+                    "name": "(F46) Gran Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "22133",
+                    "name": "(F46) Gran Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "21828",
+                    "name": "(F22) Coupe M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "22193",
+                    "name": "(F46) Gran Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "226829",
+                    "name": "(F23) Convertible 230i (2.0 L 252)"
+                },
+                {
+                    "id": "144748",
+                    "name": "(F23) Convertible M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "21945",
+                    "name": "(F23) Convertible M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "22194",
+                    "name": "(F46) Gran Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "144725",
+                    "name": "(F23) Convertible 225d (2.0 D 224)"
+                },
+                {
+                    "id": "22129",
+                    "name": "(F45) Active Tourer 225i (2.0 L 231)"
+                },
+                {
+                    "id": "21944",
+                    "name": "(F23) Convertible 228i (2.0 L 245)"
+                },
+                {
+                    "id": "167564",
+                    "name": "(F45) Active Tourer 225xe (1.5 Hybrid 224)"
+                },
+                {
+                    "id": "144784",
+                    "name": "(F46) Gran Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "21889",
+                    "name": "(F23) Convertible 220i (2.0 L 184)"
+                },
+                {
+                    "id": "21825",
+                    "name": "(F22) Coupe 225d (2.0 D 218)"
+                },
+                {
+                    "id": "22192",
+                    "name": "(F46) Gran Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "144662",
+                    "name": "(F22) Coupe 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21768",
+                    "name": "(F22) Coupe 220i (2.0 L 184)"
+                },
+                {
+                    "id": "226784",
+                    "name": "(F22) Coupe 230i (2.0 L 252)"
+                },
+                {
+                    "id": "21827",
+                    "name": "(F22) Coupe M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "21826",
+                    "name": "(F22) Coupe 228i (2.0 L 245)"
+                },
+                {
+                    "id": "22130",
+                    "name": "(F45) Active Tourer 225i xDrive (2.0 L 231)"
+                },
+                {
+                    "id": "144595",
+                    "name": "(F22) Coupe 218d (2.0 D 150)"
+                },
+                {
+                    "id": "144637",
+                    "name": "(F22) Coupe 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "21766",
+                    "name": "(F22) Coupe 220d (2.0 D 184)"
+                },
+                {
+                    "id": "21709",
+                    "name": "(F22) Coupe 218d (2.0 D 143)"
+                },
+                {
+                    "id": "144600",
+                    "name": "(F22) Coupe 218i (1.5 L 136)"
+                },
+                {
+                    "id": "21767",
+                    "name": "(F22) Coupe 220d (2.0 D 190)"
+                }
+            ]
+        },
+        {
+            "year": 2019,
+            "version-list": [
+                {
+                    "id": "171708",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "22012",
+                    "name": "(F45) Active Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "177574",
+                    "name": "(F45) Active Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "177597",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 136)"
+                },
+                {
+                    "id": "144683",
+                    "name": "(F23) Convertible 218d (2.0 D 150)"
+                },
+                {
+                    "id": "22010",
+                    "name": "(F45) Active Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "22011",
+                    "name": "(F45) Active Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "21888",
+                    "name": "(F23) Convertible 220d (2.0 D 190)"
+                },
+                {
+                    "id": "177598",
+                    "name": "(F46) Gran Tourer 218d xDrive (2.0 D 150)"
+                },
+                {
+                    "id": "144684",
+                    "name": "(F23) Convertible 218i (1.5 L 136)"
+                },
+                {
+                    "id": "171699",
+                    "name": "(F45) Active Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "234857",
+                    "name": "(F23) Convertible M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "226785",
+                    "name": "(F22) Coupe M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "21947",
+                    "name": "(F45) Active Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "234856",
+                    "name": "(F23) Convertible M 240i (3.0 T 340)"
+                },
+                {
+                    "id": "226812",
+                    "name": "(F22) Coupe M 240i xDrive (3.0 T 340)"
+                },
+                {
+                    "id": "22070",
+                    "name": "(F45) Active Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "21828",
+                    "name": "(F22) Coupe M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "22072",
+                    "name": "(F45) Active Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "144763",
+                    "name": "(F46) Gran Tourer 214d (1.5 D 95)"
+                },
+                {
+                    "id": "226829",
+                    "name": "(F23) Convertible 230i (2.0 L 252)"
+                },
+                {
+                    "id": "144783",
+                    "name": "(F46) Gran Tourer 216i (1.5 L 102)"
+                },
+                {
+                    "id": "22132",
+                    "name": "(F46) Gran Tourer 216d (1.5 D 116)"
+                },
+                {
+                    "id": "144748",
+                    "name": "(F23) Convertible M 235i xDrive (3.0 T 326)"
+                },
+                {
+                    "id": "21945",
+                    "name": "(F23) Convertible M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "22130",
+                    "name": "(F45) Active Tourer 225i xDrive (2.0 L 231)"
+                },
+                {
+                    "id": "22193",
+                    "name": "(F46) Gran Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "167564",
+                    "name": "(F45) Active Tourer 225xe (1.5 Hybrid 224)"
+                },
+                {
+                    "id": "22129",
+                    "name": "(F45) Active Tourer 225i (2.0 L 231)"
+                },
+                {
+                    "id": "22194",
+                    "name": "(F46) Gran Tourer 220i (2.0 L 192)"
+                },
+                {
+                    "id": "144784",
+                    "name": "(F46) Gran Tourer 220d (2.0 D 190)"
+                },
+                {
+                    "id": "22071",
+                    "name": "(F45) Active Tourer 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "22192",
+                    "name": "(F46) Gran Tourer 218i (1.5 L 136)"
+                },
+                {
+                    "id": "22133",
+                    "name": "(F46) Gran Tourer 218d (2.0 D 150)"
+                },
+                {
+                    "id": "144725",
+                    "name": "(F23) Convertible 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21944",
+                    "name": "(F23) Convertible 228i (2.0 L 245)"
+                },
+                {
+                    "id": "21889",
+                    "name": "(F23) Convertible 220i (2.0 L 184)"
+                },
+                {
+                    "id": "21825",
+                    "name": "(F22) Coupe 225d (2.0 D 218)"
+                },
+                {
+                    "id": "144662",
+                    "name": "(F22) Coupe 225d (2.0 D 224)"
+                },
+                {
+                    "id": "21768",
+                    "name": "(F22) Coupe 220i (2.0 L 184)"
+                },
+                {
+                    "id": "226784",
+                    "name": "(F22) Coupe 230i (2.0 L 252)"
+                },
+                {
+                    "id": "21827",
+                    "name": "(F22) Coupe M 235i (3.0 T 326)"
+                },
+                {
+                    "id": "21826",
+                    "name": "(F22) Coupe 228i (2.0 L 245)"
+                },
+                {
+                    "id": "21766",
+                    "name": "(F22) Coupe 220d (2.0 D 184)"
+                },
+                {
+                    "id": "144637",
+                    "name": "(F22) Coupe 220d xDrive (2.0 D 190)"
+                },
+                {
+                    "id": "21767",
+                    "name": "(F22) Coupe 220d (2.0 D 190)"
+                },
+                {
+                    "id": "144595",
+                    "name": "(F22) Coupe 218d (2.0 D 150)"
+                },
+                {
+                    "id": "21709",
+                    "name": "(F22) Coupe 218d (2.0 D 143)"
+                },
+                {
+                    "id": "144600",
+                    "name": "(F22) Coupe 218i (1.5 L 136)"
+                }
+            ]
+        }
+    ]
+}
